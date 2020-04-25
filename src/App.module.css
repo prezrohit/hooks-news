@@ -1,0 +1,12 @@
+.loader {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    bottom: 50%;
+}
+
+.country {
+    margin: 30px;
+    text-align: center;
+}

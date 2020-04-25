@@ -1,0 +1,32 @@
+.authCard {
+	margin: auto;
+	width: 80%;
+}
+
+/* Add some padding inside the card container */
+.container {
+	padding: 15px;
+	border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.title {
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.author {
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 15px;
+    padding: 10;
+    display: inline;
+}
+
+.publishedAt {
+    display: inline;
+    text-align: end;
+}
